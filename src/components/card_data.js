@@ -28,7 +28,7 @@ const contact_data =[
 
   {
   link:"https://abhikr643.github.io/portfolio_Ak/",
-   img: "Images/Portfolio.png",
+   img: "Images/portfolio.png",
    name: "Portfolio",
    info: "Personal Portfolio , Created using React & CSS",
  
