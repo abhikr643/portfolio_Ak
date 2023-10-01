@@ -174,8 +174,8 @@ html{
 
 .skill-card{
     display: flex;
-    flex-wrap: wrap;
-    gap: 3rem;
+    /* flex-wrap: wrap; */
+    gap: 2.5rem;
     margin-left: 0.2rem;
     margin-right:0.2rem;
     
@@ -183,7 +183,7 @@ html{
  
  .scard{
     height: 17rem;
-    width: 18rem;
+    width: 18.5rem;
   background: rgba( 255, 255, 255, 0.15 );
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.495);
   /* backdrop-filter: blur( 18px ); */
@@ -218,7 +218,7 @@ html{
  .skill-list{
     list-style: none;
     display: flex;
-    padding-left:0.8rem;
+    padding-left:0.7rem;
     padding-bottom: 0.5rem;
     color: blanchedalmond;
     font-size:large;
